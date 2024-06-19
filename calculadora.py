@@ -8,8 +8,8 @@ class Calculadora:
         pass
 
     def multiplicar(self, a, b):
-        # TODO: Implemente a multiplicação
-        pass
+        #Otávio Rocha
+        return a * b
 
     def dividir(self, a, b):
         # TODO: Implemente a divisão
